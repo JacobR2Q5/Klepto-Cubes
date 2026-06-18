@@ -1,0 +1,4 @@
+Cyan
+Green
+Yellow
+Magenta
